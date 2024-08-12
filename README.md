@@ -15,8 +15,8 @@ Key Insights 📑 :
 •Local Server Setup: If deploying a web application or a model endpoint locally, set up a local server here we have used flask framework.
 
 
-
 CAT VS DOG CLASSIFICATION
+
 Objective 🎯: Develop an image classification model to distinguish between images of cats and dogs using data science techniques in Python.
 
 Key Insights📑:
