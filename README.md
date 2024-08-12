@@ -23,6 +23,8 @@ Key Insights📑:
 1. Data Collection: Utilized Kaggle dataset containing images of cats and dogs.
    
 2.TensorFlow Implementation: Implemented TensorFlow for building and training the image classification model.
+
 3.Generators from Keras: Employed Keras generators to efficiently load and preprocess images during training, crucial for handling large datasets.
+
 4. CNN Model Design: Developed a Convolutional Neural Network (CNN), a specialized architecture for effective image classification tasks.
 
